@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Render_Prueba.git/static/css/main.073c9b0a.css",
-    "main.js": "/Render_Prueba.git/static/js/main.07f6be1d.js",
-    "static/js/787.95575d6a.chunk.js": "/Render_Prueba.git/static/js/787.95575d6a.chunk.js",
-    "index.html": "/Render_Prueba.git/index.html",
-    "main.073c9b0a.css.map": "/Render_Prueba.git/static/css/main.073c9b0a.css.map",
-    "main.07f6be1d.js.map": "/Render_Prueba.git/static/js/main.07f6be1d.js.map",
-    "787.95575d6a.chunk.js.map": "/Render_Prueba.git/static/js/787.95575d6a.chunk.js.map"
+    "main.css": "/Favorableasp599/Render_Prueba.git/static/css/main.073c9b0a.css",
+    "main.js": "/Favorableasp599/Render_Prueba.git/static/js/main.35416bb5.js",
+    "static/js/787.95575d6a.chunk.js": "/Favorableasp599/Render_Prueba.git/static/js/787.95575d6a.chunk.js",
+    "index.html": "/Favorableasp599/Render_Prueba.git/index.html",
+    "main.073c9b0a.css.map": "/Favorableasp599/Render_Prueba.git/static/css/main.073c9b0a.css.map",
+    "main.35416bb5.js.map": "/Favorableasp599/Render_Prueba.git/static/js/main.35416bb5.js.map",
+    "787.95575d6a.chunk.js.map": "/Favorableasp599/Render_Prueba.git/static/js/787.95575d6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.07f6be1d.js"
+    "static/js/main.35416bb5.js"
   ]
 }
